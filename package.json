@@ -1,14 +1,14 @@
 {
-  "name"       : "jcore-react-native",
+  "name"       : "react-native-mjcore",
   "description": "React Native JCore component for Android and iOS",
-  "homepage"   : "https://github.com/jpush/jcore-react-native",
-  "author"     : "wicked.tc130",
+  "homepage"   : "https://github.com/bashen1/react-native-mjcore",
+  "author"     : "bashen1",
   "license"    : "ISC",
   "main"       : "index.js",
-  "version"    : "1.8.0",
+  "version"    : "1.0.1",
   "repository" : {
     "type": "git",
-    "url": "https://github.com/jpush/jcore-react-native"
+    "url": "https://github.com/bashen1/react-native-mjcore"
   },
   "keywords"   : [
     "react-native",
