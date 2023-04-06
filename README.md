@@ -1,10 +1,15 @@
 # React-Native-mJcore
 
-## 此项目基于https://github.com/jpush/jcore-react-native
+[![npm version](https://badge.fury.io/js/react-native-mjcore.svg)](https://badge.fury.io/js/react-native-mjcore)
+
+iOS Version: 3.2.5
+
+Android Version: 4.1.0
+
+## 此项目基于[https://github.com/jpush/jcore-react-native](https://github.com/jpush/jcore-react-native)
 
 ## 安装
 
-```
+```sh
 npm install react-native-mjcore --save
 ```
-
