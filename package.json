@@ -5,7 +5,7 @@
   "author"     : "bashen1",
   "license"    : "ISC",
   "main"       : "index.js",
-  "version"    : "2.3.0",
+  "version"    : "2.4.0",
   "repository" : {
     "type": "git",
     "url": "https://github.com/bashen1/react-native-mjcore"
