@@ -4,7 +4,7 @@
 
 iOS Version: 3.2.5
 
-Android Version: 4.1.0
+Android Version: 4.2.0
 
 ## 此项目基于[https://github.com/jpush/jcore-react-native](https://github.com/jpush/jcore-react-native)
 
