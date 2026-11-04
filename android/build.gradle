@@ -6,6 +6,7 @@ def safeExtGet(prop, fallback) {
 
 android {
   compileSdkVersion safeExtGet('compileSdkVersion', 34)
+  namespace 'cn.jiguang.plugins.core'
   defaultConfig {
     minSdkVersion safeExtGet('minSdkVersion', 23)
     targetSdkVersion safeExtGet('targetSdkVersion', 34)
@@ -19,8 +20,15 @@ android {
   }
 }
 
+repositories {
+  flatDir {
+    dirs 'libs'
+  }
+}
+
 dependencies {
-  implementation fileTree(dir: 'libs', include: ['*.jar'])
+  // 支持 JAR 和 AAR 两种格式
+  // implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
   implementation 'com.facebook.react:react-native:+'
   implementation 'cn.jiguang.sdk:jcore:5.6.0'
 }
