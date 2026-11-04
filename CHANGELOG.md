@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.5.3
+
+- 恢复部分Android调整，防止 pod install 失败
+
 ## 2.5.2
 
 - 升级 Android JCore 至 5.6.0
