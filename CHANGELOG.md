@@ -4,6 +4,7 @@
 
 - 升级 Android JCore 至 5.6.0
 - 升级 iOS JCore 至 5.6.0
+- 调整Android项目集成，清理iOS无效文件
 
 ## 2.5.1
 
