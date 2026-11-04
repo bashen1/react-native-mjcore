@@ -2,13 +2,9 @@
 
 [![npm version](https://badge.fury.io/js/react-native-mjcore.svg)](https://badge.fury.io/js/react-native-mjcore)
 
-iOS Version（noidfa）: 4.8.0
+iOS Version（noidfa）: 5.6.0
 
-Android Version: 4.8.2
-
-## 注意
-
-iOS升级覆盖需要重命名 `libJCore.a` 为 `libJCoreM.a`，`info.plist` 中的两处也需要替换，否则无法编译
+Android Version: 5.6.0
 
 ## 此项目基于[https://github.com/jpush/jcore-react-native](https://github.com/jpush/jcore-react-native)
 
